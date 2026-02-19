@@ -10,3 +10,7 @@ receba 67 betinhas
 ```bash
 git config --global
 ```
+
+## Configurando GitHub
+
+Jefferson Baguncinha
